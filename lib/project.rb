@@ -14,8 +14,8 @@ class Project
     @backers
   end
 
-  def backer
-    @backer
+  def project
+    self.title
   end
 
 
