@@ -11,8 +11,8 @@ class Project
     @backed_projects << Project.title
   end
 
-  def title
-    @title
+  def backers
+    @backers
   end
 
 
