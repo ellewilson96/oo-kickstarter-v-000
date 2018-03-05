@@ -15,4 +15,8 @@ end
     @backed_projects
 end
 
+  def backers
+    @backers
+  end
+  
 end
