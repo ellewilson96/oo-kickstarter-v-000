@@ -1,5 +1,5 @@
 class Project
-  attr_accessor :name, :title, :backed_projects
+  attr_accessor :name, :title, :backed_projects, :backer
 
 
 
