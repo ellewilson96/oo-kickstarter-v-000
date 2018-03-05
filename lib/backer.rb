@@ -15,4 +15,8 @@ end
     @backed_projects
 end
 
+def name
+  @name
+end
+
 end
