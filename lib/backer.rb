@@ -14,6 +14,8 @@ end
     @backed_projects
 end
 
-
+  def backer
+    self.name
+  end
 
 end
