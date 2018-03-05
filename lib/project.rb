@@ -11,7 +11,7 @@ class Project
     @backed_projects << Project.title
   end
 
-  def title
+  def self.title
     @title
   end
 
