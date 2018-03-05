@@ -11,10 +11,6 @@ class Project
     @backed_projects << Project.title
   end
 
-  def self.title
-    @title
-  end
-
   def backers
     @backers
   end
