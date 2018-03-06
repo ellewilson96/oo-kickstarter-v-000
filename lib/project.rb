@@ -10,13 +10,6 @@ class Project
     @backers << backer
   end
 
-  def backers
-    @backers
-  end
-
-  def project
-    self.title
-  end
 
 
 end
